@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denis/projects/learncmake/lib/sample_program/main.cpp
+iostream
+-
+sample_module.h
+/home/denis/projects/learncmake/lib/sample_program/sample_module.h
+
+lib/sample_lib/sample_module.h
+

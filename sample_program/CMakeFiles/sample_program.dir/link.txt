@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sample_program.dir/main.cpp.o  -o sample_program ../sample_lib/libsample_lib.a 
